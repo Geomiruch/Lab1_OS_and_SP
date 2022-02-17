@@ -1,0 +1,19 @@
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\bin\Debug\Lab1 _OS_and_SP.exe.config
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\bin\Debug\Lab1 _OS_and_SP.exe
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\bin\Debug\Lab1 _OS_and_SP.pdb
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\Lab1 _OS_and_SP.csprojAssemblyReference.cache
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\MainWindow.g.cs
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\App.g.cs
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\Lab1 _OS_and_SP_MarkupCompile.cache
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\Lab1 _OS_and_SP_MarkupCompile.lref
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\MainWindow.baml
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\Lab1 _OS_and_SP.g.resources
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\Lab1__OS_and_SP.Properties.Resources.resources
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\Lab1 _OS_and_SP.csproj.GenerateResource.cache
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\Lab1 _OS_and_SP.csproj.CoreCompileInputs.cache
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\Lab1 _OS_and_SP.exe
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\Lab1 _OS_and_SP.pdb
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\bin\Debug\Lab1 _OS_and_SP.exe.manifest
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\bin\Debug\Lab1 _OS_and_SP.application
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\Lab1 _OS_and_SP.exe.manifest
+D:\Lab1 _OS_and_SP\Lab1 _OS_and_SP\obj\Debug\Lab1 _OS_and_SP.application
